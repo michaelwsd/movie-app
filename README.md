@@ -3,4 +3,4 @@ Fetched movie data from [TMDB](https://www.themoviedb.org/?language=en-AU) and b
 Try it out [here](https://michaelwsd.github.io/movie-app).
 
 ## Demo Preview 
-![demo](image.png)
+![demo](./src/assets/image-1.png)
